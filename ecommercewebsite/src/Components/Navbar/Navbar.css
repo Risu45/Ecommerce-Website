@@ -1,0 +1,7 @@
+.nav-menu  hr{
+    border: none;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px;
+    background-color: rgb(222, 52, 52);
+}

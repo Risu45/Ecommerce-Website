@@ -1,0 +1,37 @@
+.img{
+    width: 12vw;
+}
+
+
+@media(max-width:762px){
+.maincontainer{
+    flex-direction: column;
+}
+
+}
+
+@media(max-width:606px){
+    .img{
+        width: 15vw;
+    }
+    .bigimg{
+        width: 40vw;
+    }
+}
+@media(max-width:510px){
+    .img{
+        width: 15vw;
+    }
+    .bigimg{
+        width: 60vw;
+    }
+}
+@media(max-width:419px){
+    .img{
+        width: 18vw;
+    }
+    .bigimg{
+        width: 50vw;
+    }
+}
+
